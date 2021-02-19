@@ -1,7 +1,7 @@
 # Tombol
-$pkg update && pkg update
+*. $pkg update && pkg update
 
-$pkg install php
+*. $pkg install php
 
 $git clone https://github.com/hakutaka1234/Tombol
 
