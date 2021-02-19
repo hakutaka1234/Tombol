@@ -1,13 +1,13 @@
 # Tombol
-$pkg update && pkg update
+_**$pkg update && pkg update**_
 
-$pkg install php
+_**$pkg install php**_
 
-$git clone https://github.com/hakutaka1234/Tombol
+_**$git clone https://github.com/hakutaka1234/Tombol**_
 
-$cd Tombol
+_**$cd Tombol**_
 
-$php tombol.php
+_**$php tombol.php**_
 
 # Password
 _**RUN**_
@@ -16,4 +16,4 @@ _**RUN**_
 ![Screenshot_20210220_000253](https://user-images.githubusercontent.com/63560321/108537773-99af3700-7310-11eb-8b8a-918172307e28.jpg)
 
 # CREATOR
-**github.com/hakutaka1234
+_**github.com/hakutaka1234**_
